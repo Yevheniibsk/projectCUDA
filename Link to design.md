@@ -1,1 +1,0 @@
-[# projectCUDA](https://www.figma.com/file/bwUL0sLCb80LUYUXKBqF4O/project-CUDA?node-id=0%3A1)
